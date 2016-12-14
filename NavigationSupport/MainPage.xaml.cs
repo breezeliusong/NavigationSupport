@@ -49,5 +49,7 @@ namespace NavigationSupport
         {
             if (this.Frame.CanGoBack) Frame.GoBack();
         }
+
+
     }
 }
